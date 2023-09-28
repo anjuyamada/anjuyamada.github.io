@@ -13,7 +13,7 @@ about:
 ---
 
 ::: {#heading}
-Ph.D in
+Ph.D i
 
 For more information, see
 :::
@@ -33,7 +33,5 @@ I am
 
 ## Articles (not reviewed)
 :::
-
-
 
 ## Teaching
