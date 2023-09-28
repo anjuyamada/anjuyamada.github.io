@@ -3,7 +3,7 @@ title: "Anju Yamada"
 about: 
   id: heading
   template: trestles
-  image: figures/profile.jpg
+  image: figure/anju.jpg
   image-width: 200px
   image-shape: round
   links:
@@ -12,52 +12,28 @@ about:
       href: mailto:js6155ay@gmail.com
 ---
 
-:::{#heading}
+::: {#heading}
+Ph.D in
 
-Ph.D in 
-
-
-
-For more information, see 
-
-
-
-
-
-
+For more information, see
 :::
 
-:::{.callout-note}
-
+::: callout-note
 ## お知らせ
-
-
-
 :::
 
 ## Research Interests
 
-I am 
+I am
 
 ## Publications
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Articles (reviewed)
 
-
-
 ## Articles (not reviewed)
-
-
-
 :::
 
 See also [Google Scholar](https://scholar.google.co.jp/citations?user=43lQ5k8AAAAJ) and [researchmap](https://researchmap.jp/doishohei).
 
-
-
 ## Teaching
-
-
-
